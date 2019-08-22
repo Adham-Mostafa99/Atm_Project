@@ -1,0 +1,43 @@
+åæ ÝßÑÊå ãßäå ÕÑÇÝå
+Ýí 4 ãáÝÇÊ ãÑÈæØíä ÈÇáÈÑäÇãÌ
+ÇáÈÑäÇãÌ ÈíÞÑÇÁ æíßÊÈ Ýíåã
+ÇáãáÝ ÇáÇæá  ááÇÓãÇÁ 
+ÇáãáÝ ÇáËÇäí  ááÇÑÞÇã ÇáÓÑíå ÇáÎÇÕå Èßá ÇÓã 
+ÇáãáÝ ÇáËÇáË ÇáÝáæÓ Çáí ãÚ ßá ÔÎÕ Ýí ÇáÍÓÇÈ
+ÇáãáÝ ÇáÑÇÈÚ ÇáÝáæÓ Çáí Ýí Çáãßäå äÝÓåÇ
+áãÇ ÍÏ íÓÍÈ ÝáæÓ ãä ÍÓÇÈ ÍÏ ÇáÝáæÓ ÈÈÊÓÍÈ ãä Çáãßäå æãä ÍÓÇÈå
+æÇáÈÑäÇãÌ ÈíØÈÚ ÇáÈíÇäÇÊ ÇáÌÏíÏå Ýí ÇáãáÝÇÊ
+Êãã ßÏå
+
+
+
+http://www.mediafire.com/file/lgrqg9q2l3ld5e5/NAtm.rar/file
+
+
+Atm project by java language .
+works on netbeans .
+the program read and write to files that related with program .
+there are 4 files :
+1- for names .
+2- for passwords. 
+3- for money for every user.
+4- for machine money .
+==>when user take money ,the user's money in file will decrease and also machine's money.
+
+
+
+
+
+
+# Atm_Project
+##### __Atm project by java language .__
+###### works on netbeans .
+###### the program read and write to files that related with program .
+#### there are 4 files :
+ * 1- for names .
+ * 2- for passwords. 
+ * 3- for money for every user.
+ * 4- for machine money .
+###### ==>when user take money ,the user's money in file will decrease and also machine's money.
+##### *This is a photo from a program*
+![Capture](https://user-images.githubusercontent.com/37470831/60388878-2a8c2b80-9ab8-11e9-81fc-598686971f2c.PNG)
